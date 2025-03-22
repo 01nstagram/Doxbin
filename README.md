@@ -1,31 +1,27 @@
 
-DOX CREATE 📜
+## 🕵️‍♂️ DOX CREATE 📜
 
-DOX CREATE is an advanced information collection tool that automates data gathering from various sources. This tool is designed for research and investigative purposes.
+DOX CREATE is a powerful OSINT (Open Source Intelligence) tool designed to automate the collection of public information from multiple sources. Ideal for research, investigative analysis, and ethical cybersecurity purposes.
 
-⚠️ Disclaimer
+## ⚠️ Disclaimer
 
-This tool is intended for educational and ethical research purposes only. The misuse of this tool for illegal activities is strictly prohibited. The developer is not responsible for any actions performed using this tool.
+This tool is strictly for educational and ethical research purposes only. Any misuse, including unauthorized data collection, is prohibited. The developer holds no responsibility for how this tool is used. Use responsibly.
 
-🚀 Features
+## 🚀 Features
 
-Automated data collection
+✅ Automated data gathering
+✅ Lookup by name, phone, email, address, IP
+✅ Integration with multiple OSINT sources
+✅ Fast & easy-to-use CLI interface
+✅ Export results in JSON, TXT, or CSV
 
-Name, phone, email, address, IP lookup
-
-Integration with various OSINT sources
-
-Easy-to-use command-line interface
-
-Export results in JSON, TXT, or CSV
-
-
-🛠 Installation
+## 🛠 Installation
 
 1. Clone the repository:
 
 git clone https://github.com/01nstagram/doxbin.git
-cd dixbin
+
+cd doxbin
 
 
 2. Install dependencies:
@@ -33,26 +29,23 @@ cd dixbin
 pip install -r requirements.txt
 
 
-
 3. Run the tool:
 
 python doxbin.py
 
-📝 To-Do List
 
-Add more OSINT sources
+📌 Upcoming Features
 
-Improve search algorithms
-
-Implement a web-based dashboard
-
+🚀 More OSINT sources for better accuracy
+🔍 Enhanced search algorithms for deeper analysis
+🌐 Web-based dashboard for better usability
 
 🤝 Contributing
 
-Feel free to submit pull requests or report issues.
+Want to improve DOX CREATE? Feel free to open an issue or submit a pull request. Contributions are welcome!
 
 ⚖️ Legal Notice
 
-Using this tool to collect information without consent may violate laws in your jurisdiction. Use responsibly.
+Unauthorized data collection may violate laws in your country. Always ensure you have legal permission before performing any searches. The developer is not responsible for misuse.
 
 
